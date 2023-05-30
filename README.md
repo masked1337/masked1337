@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masked1337&label=Profile%20views&color=0e75b6&style=flat" alt="masked1337" /> </p>
 
-<p align="left"> <a href="https://twitter.com/masked1337" target="blank"><img src="https://img.shields.io/twitter/follow/masked1337?logo=twitter&style=for-the-badge" alt="masked1337" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devmasked1337" target="blank"><img src="https://img.shields.io/twitter/follow/masked1337?logo=twitter&style=for-the-badge" alt="masked1337" /></a> </p>
 
 - 🔭 I’m currently working on **Babl Gam Nuker**
 
