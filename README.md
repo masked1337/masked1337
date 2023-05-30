@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/d0/a5/96/d0a596d4318bd9c388d8e41324bdf392.gif)
+[![MasterHead](https://i.pinimg.com/736x/d8/c6/5e/d8c65eabca09430c76c61ff1ac766b86.jpg)
 <h1 align="center">Hi 👋, I'm masked1337</h1>
 <h3 align="center">A passionate developer for tools</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/1e488ec76749bdc13610bcc507f37880/tenor.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masked1337&label=Profile%20views&color=0e75b6&style=flat" alt="masked1337" /> </p>
 
