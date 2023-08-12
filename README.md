@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/devmasked1337" target="blank"><img src="https://img.shields.io/twitter/follow/masked1337?logo=twitter&style=for-the-badge" alt="masked1337" /></a> </p>
 
-- 🔭 I’m currently working on **Babl Gam Nuker**
+- 🔭 I’m currently working on **Fivem Scripts**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **css, html**
 
-- 📫 How to reach me **https://discord.gg/TCkqKrWt6b**
+- 📫 How to reach me **[https://discord.gg/TCkqKrWt6b](https://discord.gg/uJScYCuZfb)**
 
 - ⚡ Fun fact **I give a lot of tools for free**
 
