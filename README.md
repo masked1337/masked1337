@@ -22,8 +22,8 @@
 <a href="https://discord.gg/aZJk7Aufh6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ANEqSMmH7w" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h3 align="left">YouTube:</h3>
+<p align="left"> <a href="https://www.youtube.com/watch?v=Ses47kZTwUU&t=24s" target="_blank" rel="noreferrer"> <img height="40"/> </a> <a 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masked1337&show_icons=true&locale=en&layout=compact" alt="masked1337" /></p>
 
