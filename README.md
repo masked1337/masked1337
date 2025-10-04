@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/devmasked1337" target="blank"><img src="https://img.shields.io/twitter/follow/masked1337?logo=twitter&style=for-the-badge" alt="masked1337" /></a> </p>
 
-- 🔭 I’m currently working on **Video Editing**
+- 🔭 I’m currently working on **Video Editing & HTML, CSS AND JS**
 
 - 🌱 I’m currently learning **C++**
 
