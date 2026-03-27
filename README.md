@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/devmasked1337" target="blank"><img src="https://img.shields.io/twitter/follow/masked1337?logo=twitter&style=for-the-badge" alt="masked1337" /></a> </p>
 
-- 🔭 I’m currently working on **Website & Video Editing**
+- 🔭 I’m currently working on **Fivem Scripts**
 
 - 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **[WebSite](https://masked1337.github.io/)**
 
-- ⚡ Fun fact **I'm 18 years old.**
+- ⚡ Fun fact **I'm 19 years old.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
