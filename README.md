@@ -6,7 +6,7 @@
        OS  :  Win 11
 Languages  :  Py, Lua, Java
    Editor  :  adobe
-    Motto  :  .
+    Quote  :  Let me do - Lil Wayne.
 ```
 <h3 align="left">Other:</h3>
 
