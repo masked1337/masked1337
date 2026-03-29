@@ -12,5 +12,4 @@ Languages  :  Py, Lua, Java
 <p align="left"> <a href="https://www.youtube.com/watch?v=Ses47kZTwUU&t=24s" target="_blank" rel="noreferrer"> <img height="40"/> </a> <a 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masked1337&show_icons=true&locale=en&layout=compact" alt="masked1337" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masked1337&" alt="masked1337" /></p>
