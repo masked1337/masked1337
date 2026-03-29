@@ -11,7 +11,7 @@ Languages  :  Py, Lua, Java
 <h3 align="left">Other:</h3>
 
 <p align="left">
-  <a href="https://www.youtube.com/watch?v=Ses47kZTwUU&t=24s" target="_blank">
+  <a href="https://www.youtube.com/@masked1337" target="_blank">
     <img src="https://img.icons8.com/color/48/youtube-play.png" height="40" />
   </a>
 </p>
