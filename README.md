@@ -9,20 +9,10 @@ Languages  :  Py, Lua, Java
     Motto  :  .
 ```
 <h3 align="left">Other:</h3>
-<p align="left">
-  <a href="https://www.youtube.com/watch?v=Ses47kZTwUU&t=24s" target="_blank">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" height="40" alt="YouTube"/>
-  </a>
-</p>
+<p align="left"> <a href="https://www.youtube.com/watch?v=Ses47kZTwUU&t=24s" target="_blank" rel="noreferrer"> <img height="40"/> </a> <a 
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masked1337&show_icons=true&locale=en&layout=compact&cache_seconds=1800" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masked1337&show_icons=true&locale=en&layout=compact" alt="masked1337" /></p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=masked1337&show_icons=true&locale=en&cache_seconds=1800" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masked1337&show_icons=true&locale=en" alt="masked1337" /></p>
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=masked1337&cache_seconds=1800" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masked1337&" alt="masked1337" /></p>
