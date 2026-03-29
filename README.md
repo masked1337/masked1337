@@ -5,7 +5,6 @@
 ```lua
        OS  :  Win 11
 Languages  :  Py, Lua, Java
-   Editor  :  adobe
     Quote  :  Let me do - Lil Wayne.
 ```
 <h3 align="left">Other:</h3>
