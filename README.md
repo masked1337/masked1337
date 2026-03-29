@@ -13,6 +13,4 @@ Languages  :  Py, Lua, Java
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masked1337&show_icons=true&locale=en&layout=compact" alt="masked1337" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masked1337&show_icons=true&locale=en" alt="masked1337" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masked1337&" alt="masked1337" /></p>
